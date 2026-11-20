@@ -4,7 +4,7 @@ langchain-community
 langchain-text-splitters
 pypdf
 pymupdf
-dotenv
+python-dotenv
 langchain-google-genai
 langchain_huggingface
 langchain-groq
