@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+pypdf
+pymupdf
+dotenv
+langchain-google-genai
+langchain_huggingface
+langchain-groq
+sentence_transformers
+streamlit
+PYPDF2
